@@ -1,24 +1,22 @@
- <!-- Animated Header -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0891B2&height=200&section=header&text=Kalin%20Dissanayaka&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Kalin Dissanayaka - Developer Banner"/>
+<!-- Fiery Red Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190000,30:7F0000,65:DC143C,100:FF4500&height=230&section=header&text=Kalin%20Dissanayaka&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20AI%20EXPLORER&descSize=13&descAlignY=57&animation=twinkling" width="100%" alt="Kalin Dissanayaka Fiery Red GitHub Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Developing+with+React+%26+.NET;Exploring+AI+Agents+%26+Automation;Turning+ideas+into+real-world+solutions" alt="Animated developer introduction"/>
+<!-- Fiery Red Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=650&color=FF4500&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;React+%7C+.NET+%7C+Python+%7C+SQL;Exploring+AI+Agents+%26+Automation;Turning+Ideas+Into+Real+Solutions" alt="Animated developer introduction"/>
 
 <p>
-  <a href="https://github.com/kalin-dissanayaka">
-    <img src="https://komarev.com/ghpvc/?username=kalin-dissanayaka&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/kalin-dissanayaka?tab=followers">
-    <img src="https://img.shields.io/github/followers/kalin-dissanayaka?style=for-the-badge&color=0891B2&label=FOLLOWERS" alt="GitHub followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kalin-dissanayaka&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/kalin-dissanayaka?style=for-the-badge&color=B22222&label=FOLLOWERS" alt="GitHub followers"/>
   <a href="https://github.com/kalin-dissanayaka?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore repositories"/>
+    <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-330000?style=for-the-badge&logo=github&logoColor=FF4500" alt="Explore projects"/>
   </a>
 </p>
 
 </div>
+
+
 
 ---
 

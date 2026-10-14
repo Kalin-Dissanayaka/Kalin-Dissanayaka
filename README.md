@@ -138,6 +138,5 @@ Developing a solution focused on department-level Key Performance Indicators (KP
 
 ### 💡 "Great software starts with curiosity and grows through consistency."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0F172A,100:020617&height=100&section=footer" width="100%" alt="Animated-style footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190000,30:7F0000,65:DC143C,100:FF4500&height=100&section=footer" width="100%" alt="Animated-style footer"/>
 </div>

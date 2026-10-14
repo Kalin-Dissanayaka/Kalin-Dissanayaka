@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=650&color=FF4500&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;React+%7C+.NET+%7C+Python+%7C+SQL;Exploring+AI+Agents+%26+Automation;Turning+Ideas+Into+Real+Solutions" alt="Animated developer introduction"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kalin-dissanayaka&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=kalin-dissanayaka&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile views"/> -->
   <img src="https://img.shields.io/github/followers/kalin-dissanayaka?style=for-the-badge&color=B22222&label=FOLLOWERS" alt="GitHub followers"/>
   <a href="https://github.com/kalin-dissanayaka?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-330000?style=for-the-badge&logo=github&logoColor=FF4500" alt="Explore projects"/>
